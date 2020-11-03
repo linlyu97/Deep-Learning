@@ -3,9 +3,13 @@
 
 Established a Multilayer Perceptron model using PyTorch for speech classification. 
 hyper-parameters, criterion, optimizer:
+
 batch_size = 1024
+
 context = 35
+
 criterion = nn.CrossEntropyLoss()
+
 optimizer = optim.Adam(model.parameters(), lr=0.001, weight_decay=1e-4)
 
 ## Tricks to enhance model performance:
