@@ -23,5 +23,7 @@ optimizer = optim.Adam(model.parameters(), lr=0.001, weight_decay=1e-4)
 
 5. Achieved a 30% increase in accuracy compared to baseline.
 
+#### PDF file has more information about dl tasks.
+
 
 
