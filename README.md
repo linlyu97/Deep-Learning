@@ -1,5 +1,7 @@
 # Deep-Learning
 
+This repository contains some of my projects in Introduction to DL course in CMU.
+
 Speech recognition folder contains all my code, model architecture, task and tricks to enchance performance.
 
 
